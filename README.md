@@ -1,9 +1,9 @@
 # ctf-helper
-# CTF SNO Toolkit  A comprehensive desktop application to assist cybersecurity enthusiasts and CTF players by providing a streamlined graphical interface for a wide range of popular security tools.
+CTF SNO Toolkit  A comprehensive desktop application to assist cybersecurity enthusiasts and CTF players by providing a streamlined graphical interface for a wide range of popular security tools.
 
 You can download the latest version for **Windows** and **Linux** directly from our official releases page.
 
-**➡️ [Click Here to Go to the Downloads Page](https://github.com/YourUsername/Your-Repository-Name/releases/latest)**
+**➡️ [Click Here to Go to the Downloads Page](https://github.com/snoopzx/ctf-helper/releases/latest)**
 ---
 
 ## ⚙️ How to Use
