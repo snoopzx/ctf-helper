@@ -1,9 +1,9 @@
 # ctf-helper
 CTF SNO Toolkit  A comprehensive desktop application to assist cybersecurity enthusiasts and CTF players by providing a streamlined graphical interface for a wide range of popular security tools.
 
-Valid for 7 days from the date of publication.
-User: sno.
-Pass: 1212.
+**Valid for 7 days from the date of publication
+**User: sno
+**Pass: 1212
 
 You can download the latest version for **Windows** and **Linux** directly from our official releases page.
 
