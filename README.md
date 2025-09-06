@@ -22,8 +22,8 @@ No installation required! The application is portable.
 * **🐧 For Linux:**
     1.  Download the `CTF Ai1` file from the releases page.
     2.  Open your terminal and navigate to the download location.
-    3.  Give the file execute permissions using the command: `chmod +x ./CTF Ai1`
-    4.  Run the application with: `./CTF Ai1`
+    3.  Give the file execute permissions using the command: `chmod +x ./CTF\ Ai1.bin`
+    4.  Double-click to run! OR Run the application with: `./CTF\ Ai1.bin`
 
 ---
 
